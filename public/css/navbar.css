@@ -1,0 +1,20 @@
+.navbar-inverse{
+    background-color: rgb(10, 70, 88) !important;
+    border-color: rgb(4, 40, 73) !important;
+    margin:0;
+    
+}
+.navbar-inverse .container-fluid .navbar-nav  .dropdown-menu {
+    background-color: rgb(135, 216, 216) !important;
+}
+.navbar {
+    position: relative;
+    min-height: 50px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 0px;
+    background-color: #eeeeee;
+    border-radius: 4px;
+  }
+   
+  
